@@ -1,0 +1,9 @@
+.head{height: 40px;background-color: blue;}
+.nav-link{font-size: 15px;color: blue;text-transform: uppercase;}
+.content{width:750px;font-size: 13px;}
+hr.ke{border: 1px solid blue;margin-top: -10px;}
+.trai1{margin-left: 750px;margin-top: -40px; color: yellow;}
+h4{font-family: 'Times New Roman', Times, serif;margin-left: 20px;}
+.footer{width: auto;height: 50px;background-color:blue;}
+li{margin-left: 40px;font-family: 'Times New Roman', Times, serif;}
+p{font-family: 'Times New Roman', Times, serif;margin-left: 20px;}
